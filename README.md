@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDD5E7&text=hongdii(오현지)&fontSize=40&height=200&fontColor=52595D)
+<br>
+✨ 호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. ✨
+
 
 <!--
 **hongdii/hongdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
