@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDD5E7&text=hongdii(오현지)&fontSize=40&height=200&fontColor=52595D)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDD5E7&text=hongdii's&nbsp;GitHub&fontSize=50&height=200&fontColor=52595D)
 <br>
-<div align="center">✨ 호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. ✨</div>
+<div align="center">✨ 안녕하세요!:open_hands: 호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. 😄 ✨</div>
 
+<div align="center"></div>
 
 <!--
 **hongdii/hongdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
