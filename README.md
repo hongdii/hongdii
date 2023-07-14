@@ -9,7 +9,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
-	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+	<img src="https://img.shields.io/badge/Dart-02569B?style=flat&logo=Dart&logoColor=white">
  	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<br>
@@ -39,6 +39,7 @@
 	<img src="https://img.shields.io/badge/Android Studio-FF0000?style=flat&logo=Android Studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" >
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" >
 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
