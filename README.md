@@ -7,17 +7,17 @@
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/C-FF0000?style=flat&logo=C&logoColor=white">
-	<img src="https://img.shields.io/badge/C++-FF0000?style=flat&logo=C++&logoColor=white">
-	<img src="https://img.shields.io/badge/Flutter-FF0000?style=flat&logo=Flutter&logoColor=white">
- 	<img src="https://img.shields.io/badge/PHP-FF0000?style=flat&logo=PHP&logoColor=white">
-	<img src="https://img.shields.io/badge/Python-FF0000?style=flat&logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+ 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/Jsp-FF0000?style=flat&logoColor=white">
-	<img src="https://img.shields.io/badge/JSON-FF0000?style=flat&logo=JSON&logoColor=white">
-	<img src="https://img.shields.io/badge/Ajax-FF0000?style=flat&logo=Ajax&logoColor=white">
-	<img src="https://img.shields.io/badge/jQuery-FF0000?style=flat&logo=jQuery&logoColor=white">
-	<img src="https://img.shields.io/badge/API-FF0000?style=flat&logo=API&logoColor=white">
+	<img src="https://img.shields.io/badge/Jsp-333366?style=flat&logoColor=white">
+	<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white">
+	<img src="https://img.shields.io/badge/Ajax-26689A?style=flat&logo=Ajax&logoColor=white">
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+	<img src="https://img.shields.io/badge/API-FF5A5F?style=flat&logo=API&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
