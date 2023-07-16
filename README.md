@@ -36,7 +36,7 @@
 	<h3>🛠 Tools</h3>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Android Studio-FF0000?style=flat&logo=Android Studio&logoColor=white">
+	<img src="https://img.shields.io/badge/Android Studio-8AFF72?style=flat&logo=Android Studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" >
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
