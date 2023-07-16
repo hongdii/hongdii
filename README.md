@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BDD5E7&text=hongdii's&nbsp;GitHub&fontSize=50&height=200&fontColor=52595D)
 <br>
-<div align="center">✨ 안녕하세요!:open_hands: 호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. 😄 ✨</div>
-
+<div align="center">
+	<h3>Introduction</h3>
+	안녕하세요!:open_hands:<br> 
+	호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. 😄 ✨
+</div>
+<div align="center">
+	<h3> Project</h3>
+	<a href=""> ZIPDREAM : 부동산 사이트</a>
+	<a href=""> THE GROWING : 학급 관리 사이트</a>
+	<a href=""> DONUT : 계획한 일과 끝마친 일을 기록하고 친구들과 소통하는 소셜 안드로이드 앱</a>
+	<a href=""> BYTECT : </a>
+</div>
 <div align=center>
 	<h3>💖 Skills</h3>
 </div>
