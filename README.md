@@ -7,8 +7,8 @@
 </div>
 <div align="center">
 	<h3>:pencil2: Project</h3>
-	<a href=""> ZIPDREAM : 부동산 사이트</a><br>
-	<a href=""> THE GROWING : 학급 관리 사이트</a><br>
+	<a href=""> ZIPDREAM : 부동산 사이트</a><br><br>
+	<a href=""> THE GROWING : 학급 관리 사이트</a><br><br>
 	<a href=""> DONUT : 계획한 일과 끝마친 일을 기록하고 친구들과 소통하는 소셜 안드로이드 앱</a><br>
 	<a href=""> BYTECT : </a><br>
 </div>
