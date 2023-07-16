@@ -9,8 +9,8 @@
 	<h3>:pencil2: Project</h3>
 	<a href="https://github.com/ZIPDREAM-WORKSPACE/ZIPDREAM.git"> ZIPDREAM : 부동산 사이트</a><br><br>
 	<a href="https://github.com/JunHa1307/KH_C_SEMI_THE_GROWING.git"> THE GROWING : 학급 관리 사이트</a><br><br>
-	<a href="https://github.com/hongdii/Donut.git"> DONUT : 계획한 일과 끝마친 일을 기록하고 친구들과 소통하는 소셜 안드로이드 앱</a><br>
-	<a href="https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT.git"> BYTECT : </a><br>
+	<a href="https://github.com/hongdii/Donut.git"> DONUT : 계획한 일과 끝마친 일을 기록하고 친구들과 소통하는 소셜 안드로이드 앱</a><br><br>
+	<a href="https://github.com/hongdii/BYTECT-BIKE-DETECT-PROJECT.git"> BYTECT : 횡단보도 통행 안전을 위한 딥러닝 기반 자전거 운전자 탐지 시스템</a><br>
 </div>
 <div align=center>
 	<h3>💖 Skills</h3>
