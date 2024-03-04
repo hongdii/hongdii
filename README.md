@@ -25,9 +25,6 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
-	<img src="https://img.shields.io/badge/Dart-02569B?style=flat&logo=Dart&logoColor=white">
- 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/Jsp-333366?style=flat&logoColor=white">
