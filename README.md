@@ -2,7 +2,7 @@
 <br>
 <div align="center">
 	<h3>Introduction</h3>
-	안녕하세요!:open_hands:<br> 
+	안녕하세요!<br> 
 	호기심을 자극하는 모든 것에 대해 끈기있게 파헤쳐 성취해내는 신입 개발자입니다. 😄 ✨
 </div>
 <br>
